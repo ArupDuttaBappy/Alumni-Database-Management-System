@@ -1,0 +1,29 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	background: url(back1.png);
+	background-size: cover;
+	background-position: center;
+	background-attachment: fixed;
+	font-family: Arial; 
+}
+
+p
+{
+	color: #fff;
+}
+h3
+{
+	color: #fff;
+	font-style: italic;
+}
+
+div
+{
+background:rgba(0,0,0,0.5);
+color: white;
+font-size: 20px;
+border-style: inset;
+}
+
